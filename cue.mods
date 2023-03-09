@@ -1,0 +1,7 @@
+module github.com/toddtreece/cue-module-test-2
+
+cue v0.4.3
+
+require (
+  github.com/toddtreece/cue-module-test-1 v0.1.0
+)
